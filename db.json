@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "14-01-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "14-01-2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is the post body",
+      "publishedAt": "14-01-2020",
+      "id": "hV5CvqA"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is body of post four",
+      "publishedAt": "2020-12-27",
+      "id": "EqOwjwU"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Pravunath Singh",
+      "email": "pravunathsingh@gmail.com"
+    },
+    {
+      "name": "Pravunath ",
+      "email": "nathprabhu21@yahoo.in",
+      "id": "lSwRnZe"
+    }
+  ]
+}
